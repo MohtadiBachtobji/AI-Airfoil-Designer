@@ -16,3 +16,10 @@ An interactive tool that uses a Deep Learning surrogate model to predict aerodyn
 2. Update the `XFOIL_PATH` variable in `Airfoil_Design_App.py` to point to your `xfoil.exe`.
 3. Run the application:
    `python Airfoil_Design_App.py`
+
+## Simulation
+
+
+
+https://github.com/user-attachments/assets/237f0ed7-26fc-4c9b-8a20-5810e2246690
+
